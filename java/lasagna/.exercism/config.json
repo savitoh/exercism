@@ -1,0 +1,20 @@
+{
+  "blurb": "TODO: add blurb for lasagna exercise",
+  "authors": [
+    "mirkoperillo"
+  ],
+  "files": {
+    "solution": [
+      "src/main/java/Lasagna.java"
+    ],
+    "test": [
+      "src/test/java/LasagnaTest.java"
+    ],
+    "exemplar": [
+      ".meta/src/reference/java/Lasagna.java"
+    ]
+  },
+  "forked_from": [
+    "csharp/lucians-luscious-lasagna"
+  ]
+}
